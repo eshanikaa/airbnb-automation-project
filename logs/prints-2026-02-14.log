@@ -1,0 +1,5 @@
+11:09:31.830 [main] INFO  stepdefinitions.ValidateSearchStep - Test Passed: URL contains 'New-York'.
+11:09:31.843 [main] INFO  stepdefinitions.ValidateSearchStep - Quitting browser.
+11:09:33.056 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@363c4251: 103 ms
+11:09:33.182 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@459f703f: 126 ms
+11:09:33.183 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@188ac8a3: 1 ms

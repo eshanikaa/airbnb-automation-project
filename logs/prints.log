@@ -1,0 +1,4 @@
+11:09:33.196 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@7c847072: 12 ms
+11:09:33.218 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@58740366: 13 ms
+11:09:33.245 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@4cb2918c: 27 ms
+11:09:33.245 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@72e295cc: 0 ms
