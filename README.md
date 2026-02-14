@@ -1,5 +1,5 @@
 **Airbnb Automation Project**
-A simple, clean, beginner‑friendly Selenium + Cucumber BDD automation project designed to automate basic Airbnb search functionalities.
+-A simple, clean, beginner‑friendly Selenium + Cucumber BDD automation project designed to automate basic Airbnb search functionalities.
 This project is intentionally kept minimal to avoid complications and to focus on clarity and working code.
 
 Tech Stack Used
